@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1394484974065
+Build-Jdk: 1.7.0_25
+Built-By: gliu
+Bundle-ManifestVersion: 2
+Bundle-Name: A Camel Spring Route Demo
+Bundle-SymbolicName: osgi.spring.demo
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.ggl.esb.osgi;version="0.0.1.SNAPSHOT"
+Import-Package: org.springframework.beans.factory.config;version="[3.0,4
+ )"
+Tool: Bnd-1.50.0
